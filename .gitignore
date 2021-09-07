@@ -1,0 +1,7 @@
+data/*
+train/*
+test/*
+checkpoints/*
+*__pycache__*
+unet/__pycache__/*
+utils/__pycache__/*
